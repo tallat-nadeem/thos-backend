@@ -1,7 +1,11 @@
 {
   "name": "thos-backend",
   "version": "1.0.0",
+  "description": "THOS Backend API",
   "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "cloudinary": "^1.37.0",
     "cors": "^2.8.5",
